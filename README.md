@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Titouan Huteau! 👋
 
-<!--
-**hut01/hut01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a devops engineer, with 4 years of professional experiences.
+Most of it in the logistic and retail industry. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+Terraform, Ansible, Kubernetes, argo cd events workflows,
+golang, python, shell
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on a windows wsl2 local kubernetes cluster responsible for hosting languages servers pods integrating with VScode
+
+🧠 I'm currently learning powershell
+
+⚡️ I am a big adept of multicloud strategies using opensource softwares 
+
